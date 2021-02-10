@@ -1,5 +1,4 @@
 # NoProc - Frontend
-###### *NoProc, NoProblem*
 
 A desktop application made with Electron, Vue.js, Vuetify and TypeScript.
 
